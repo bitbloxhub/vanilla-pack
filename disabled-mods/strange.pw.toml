@@ -1,0 +1,13 @@
+name = "Strange"
+filename = "strange-fabric-1.21-7.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xOD6MSXT/versions/1m5kSfYW/strange-fabric-1.21-7.0.13.jar"
+hash-format = "sha1"
+hash = "46128e1a38edbcf5e1dacc2ce0620883dc8af40c"
+
+[update]
+[update.modrinth]
+mod-id = "xOD6MSXT"
+version = "1m5kSfYW"

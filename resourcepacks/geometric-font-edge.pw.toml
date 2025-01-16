@@ -1,0 +1,13 @@
+name = "Geometric Font Edge"
+filename = "GeoFont-Edge-MC-v1.1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8rGGW5Iw/versions/AMj9lBZf/GeoFont-Edge-MC-v1.1.2.zip"
+hash-format = "sha1"
+hash = "25fe73ac1f4d835065656edd2c5be6de0fec4f0e"
+
+[update]
+[update.modrinth]
+mod-id = "8rGGW5Iw"
+version = "AMj9lBZf"

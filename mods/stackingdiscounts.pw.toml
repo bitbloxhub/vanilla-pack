@@ -1,0 +1,13 @@
+name = "StackingDiscounts"
+filename = "stackingdiscounts-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IqHCTShR/versions/sL5v9WlK/stackingdiscounts-1.0.0.jar"
+hash-format = "sha1"
+hash = "83f81c6cc8135fa52ee80bcc9806b52e2fd23b96"
+
+[update]
+[update.modrinth]
+mod-id = "IqHCTShR"
+version = "sL5v9WlK"

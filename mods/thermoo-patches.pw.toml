@@ -1,0 +1,13 @@
+name = "Thermoo Patches"
+filename = "thermoo-patches-3.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYRF9nUy/versions/Ui837kFW/thermoo-patches-3.4.1.jar"
+hash-format = "sha1"
+hash = "eb8e4add36b7f122d8258b2d311ce85c5a4835c3"
+
+[update]
+[update.modrinth]
+mod-id = "TYRF9nUy"
+version = "Ui837kFW"

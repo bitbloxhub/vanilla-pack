@@ -1,0 +1,10 @@
+{
+	"type": "computercraft:tool",
+	"adjective": {
+		"translate": "upgrade.minecraft.diamond_sword.adjective"
+	},
+	"item": "diamond_sword",
+	"damageMultiplier": 9,
+	"allowEnchantments": true,
+	"consumeDurability": "when_enchanted"
+}

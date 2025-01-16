@@ -1,0 +1,13 @@
+name = "Useful Snowball"
+filename = "usefulsnowball-1.0.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKs847oc/versions/8SXoFCrc/usefulsnowball-1.0.3.5.jar"
+hash-format = "sha1"
+hash = "0ae0a379f441b2f61088129514f3d0910a534588"
+
+[update]
+[update.modrinth]
+mod-id = "NKs847oc"
+version = "8SXoFCrc"

@@ -1,0 +1,13 @@
+name = "StepUpAgain"
+filename = "stepup-1.21-fabric0.100.1-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NOxfLnRC/versions/303dXyle/stepup-1.21-fabric0.100.1-1.4.jar"
+hash-format = "sha1"
+hash = "c26bf4939038e9561550e0ac20989ff0c5e1a1e8"
+
+[update]
+[update.modrinth]
+mod-id = "NOxfLnRC"
+version = "303dXyle"

@@ -1,0 +1,13 @@
+name = "Keep Head Names"
+filename = "KeepHeadData.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2VmW47Rp/versions/QQ8Wng3R/KeepHeadData.zip"
+hash-format = "sha1"
+hash = "2b11884231f3463b1bba1ce162c1b47aa3ff0683"
+
+[update]
+[update.modrinth]
+mod-id = "2VmW47Rp"
+version = "QQ8Wng3R"

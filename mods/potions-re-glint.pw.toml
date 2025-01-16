@@ -1,0 +1,13 @@
+name = "Potions Re-Glint"
+filename = "potionsreglint-1.2.0-1.21-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vVoVHci0/versions/BEIHE2gc/potionsreglint-1.2.0-1.21-fabric.jar"
+hash-format = "sha1"
+hash = "ce10d09ea178bd221d3daa7145c26113fe1e18b9"
+
+[update]
+[update.modrinth]
+mod-id = "vVoVHci0"
+version = "BEIHE2gc"

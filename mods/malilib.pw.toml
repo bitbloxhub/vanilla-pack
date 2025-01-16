@@ -1,0 +1,14 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.21-0.21.7-sakura.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21-0.21.7-sakura.1/malilib-fabric-1.21-0.21.7-sakura.1.jar"
+hash-format = "sha1"
+hash = "37ffacf68e42dd4d92053137ea92798a85e78bbb"
+
+[packwiz_gh_release]
+owner = "sakura-ryoko"
+repo = "malilib"
+release_name_regex = "^1.21-.*$"
+file_name_regex = "^.*\\.jar$"

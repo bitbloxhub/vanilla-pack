@@ -1,0 +1,14 @@
+name = "Figura"
+filename = "figura-0.1.5-rc.6+1.21.1-fabric-mc.jar"
+side = "client"
+
+[download]
+url = "https://github.com/FiguraMC/Figura/releases/download/0.1.5-rc.6/figura-0.1.5-rc.6%2B1.21.1-fabric-mc.jar"
+hash-format = "sha1"
+hash = "433de1236275cedc1ab84f526f90669a0c62c865"
+
+[packwiz_gh_release]
+owner = "FiguraMC"
+repo = "Figura"
+release_name_regex = "^.*$"
+file_name_regex = "^.*1.21.1-{loader}-mc\\.jar$"

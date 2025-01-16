@@ -1,0 +1,14 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.21-0.21.55-sakura.7.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21-0.21.55-sakura.7/tweakeroo-fabric-1.21-0.21.55-sakura.7.jar"
+hash-format = "sha1"
+hash = "8a9a375dcb496793b9598b91ca4826245ced45cf"
+
+[packwiz_gh_release]
+owner = "sakura-ryoko"
+repo = "tweakeroo"
+release_name_regex = "^1.21-.*$"
+file_name_regex = "^.*\\.jar$"

@@ -1,0 +1,13 @@
+name = "AntiBlocksReChiseled"
+filename = "antiblocksrechiseled-fabric-0.10.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLWeFJiL/versions/RqJDikrQ/antiblocksrechiseled-fabric-0.10.5.jar"
+hash-format = "sha1"
+hash = "9c36e2e8020187e95e300fb8716fecd6b98e3630"
+
+[update]
+[update.modrinth]
+mod-id = "uLWeFJiL"
+version = "RqJDikrQ"

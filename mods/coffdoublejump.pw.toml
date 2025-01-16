@@ -1,0 +1,13 @@
+name = "CoffeeG's Double Jump"
+filename = "coffdoublejump-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvSJRj1T/versions/75s9ftRO/coffdoublejump-2.1.1.jar"
+hash-format = "sha1"
+hash = "fdb139b75455d20a164a41dac11683d1c4a89e85"
+
+[update]
+[update.modrinth]
+mod-id = "hvSJRj1T"
+version = "75s9ftRO"

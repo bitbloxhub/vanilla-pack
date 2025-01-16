@@ -1,0 +1,33 @@
+{
+	"allowMovement": {
+		"net.minecraft.class_434": true,
+		"fi.dy.masa.litematica.gui.GuiMainMenu": true,
+		"me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+		"com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+		"io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+		"fi.dy.masa.minihud.gui.GuiConfigs": true,
+		"net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+		"com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+		"com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+		"dev.schmarrn.lighty.ui.LightyScreen": true,
+		"me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+		"com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+		"com.wildfire.gui.screen.WildfireCharacterSettingsScreen": true,
+		"dan200.computercraft.client.gui.TurtleScreen": false,
+		"dan200.computercraft.client.gui.ComputerScreen": false
+	},
+	"hideBackground": {
+		"me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+		"com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+		"io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+		"net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+		"com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+		"com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+		"dev.schmarrn.lighty.ui.LightyScreen": true,
+		"me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+		"com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+		"com.wildfire.gui.screen.WildfireCharacterSettingsScreen": true,
+		"dan200.computercraft.client.gui.TurtleScreen": true,
+		"dan200.computercraft.client.gui.ComputerScreen": true
+	}
+}

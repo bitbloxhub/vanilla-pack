@@ -1,0 +1,9 @@
+{
+	"type": "computercraft:tool",
+	"adjective": {
+		"translate": "upgrade.minecraft.diamond_shovel.adjective"
+	},
+	"item": "diamond_shovel",
+	"allowEnchantments": true,
+	"consumeDurability": "when_enchanted"
+}

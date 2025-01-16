@@ -1,0 +1,14 @@
+name = "Litematica"
+filename = "litematica-fabric-1.21-0.19.54-sakura.9.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-0.19.54-sakura.9/litematica-fabric-1.21-0.19.54-sakura.9.jar"
+hash-format = "sha1"
+hash = "11ef74eab65f7820d547034985a2cb8bf6102dce"
+
+[packwiz_gh_release]
+owner = "sakura-ryoko"
+repo = "litematica"
+release_name_regex = "^1.21-.*$"
+file_name_regex = "^.*\\.jar$"

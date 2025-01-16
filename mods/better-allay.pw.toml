@@ -1,0 +1,13 @@
+name = "Better Allay"
+filename = "betterallay-[FABRIC]-1.4.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rLUWhirj/versions/g5Mbvf11/betterallay-%5BFABRIC%5D-1.4.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "05906314928014a4658852255c5e0fe042100e0a"
+
+[update]
+[update.modrinth]
+mod-id = "rLUWhirj"
+version = "g5Mbvf11"

@@ -1,0 +1,36 @@
+{
+	// If the bundled Altered Damage mod should be enabled.
+	"enableAlteredDamage": true,
+	// If the bundled Alternative World Save Location mod should be enabled.
+	"enableAlternativeWorldSaveLocation": true,
+	// If the bundled Biome Spawn Point mod should be enabled.
+	"enableBiomeSpawnPoint": true,
+	// If the bundled Configurable Despawn Timer mod should be enabled.
+	"enableConfigurableDespawnTimer": true,
+	// If the bundled Configurable Extra Mob Drops mod should be enabled.
+	"enableConfigurableExtraMobDrops": true,
+	// If the bundled Configurable Furnace Burn Time mod should be enabled.
+	"enableConfigurableFurnaceBurnTime": true,
+	// If the bundled Configurable Mob Potion Effects mod should be enabled.
+	"enableConfigurableMobPotionEffects": true,
+	// If the bundled Custom Credits mod should be enabled.
+	"enableCustomCredits": true,
+	// If the bundled Cycle Title Screen Splash mod should be enabled.
+	"enableCycleTitleScreenSplash": true,
+	// If the bundled Difficulty Lock mod should be enabled.
+	"enableDifficultyLock": false,
+	// If the bundled First Join Message mod should be enabled.
+	"enableFirstJoinMessage": true,
+	// If the bundled Hide Experimental Warning mod should be enabled.
+	"enableHideExperimentalWarning": true,
+	// If the bundled Save and Load Inventories mod should be enabled.
+	"enableSaveandLoadInventories": true,
+	// If the bundled Set World Spawn Point mod should be enabled.
+	"enableSetWorldSpawnPoint": true,
+	// If the bundled Simple Menu mod should be enabled.
+	"enableSimpleMenu": true,
+	// If the bundled Starter Kit mod should be enabled.
+	"enableStarterKit": true,
+	// If the bundled Starter Structure mod should be enabled.
+	"enableStarterStructure": true
+}

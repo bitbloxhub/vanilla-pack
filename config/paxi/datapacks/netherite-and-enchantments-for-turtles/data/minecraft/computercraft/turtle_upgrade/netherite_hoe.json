@@ -1,0 +1,9 @@
+{
+	"type": "computercraft:tool",
+	"adjective": {
+		"translate": "upgrade.minecraft.diamond_hoe.adjective"
+	},
+	"item": "netherite_hoe",
+	"allowEnchantments": true,
+	"consumeDurability": "when_enchanted"
+}

@@ -1,0 +1,14 @@
+name = "Syncmatica"
+filename = "syncmatica-fabric-1.21-0.3.12-sakura.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sakura-ryoko/syncmatica/releases/download/1.21-sakura.6/syncmatica-fabric-1.21-0.3.12-sakura.6.jar"
+hash-format = "sha1"
+hash = "733c8acb04df2e26c3e6f9361c64bfdc9bf153f2"
+
+[packwiz_gh_release]
+owner = "sakura-ryoko"
+repo = "syncmatica"
+release_name_regex = "^syncmatica-1.21-.*$"
+file_name_regex = "^.*\\.jar$"

@@ -1,0 +1,13 @@
+name = "Minecart Turning"
+filename = "minecart-turning-1.1.0+1.20-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qaGQgsmc/versions/L4Z7ANkB/minecart-turning-1.1.0%2B1.20-1.21.jar"
+hash-format = "sha1"
+hash = "af609d2b686aa9b81c4b553280c0838973bd2509"
+
+[update]
+[update.modrinth]
+mod-id = "qaGQgsmc"
+version = "L4Z7ANkB"

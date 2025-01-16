@@ -1,0 +1,13 @@
+name = "Loom GUI Remastered"
+filename = "LoomRemastered-1.1.0-1.20.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/e3dXx9cS/versions/12h6y8ea/LoomRemastered-1.1.0-1.20.5.jar"
+hash-format = "sha1"
+hash = "b5fce3efb90901c0007592e9f3e14520ce31b052"
+
+[update]
+[update.modrinth]
+mod-id = "e3dXx9cS"
+version = "12h6y8ea"

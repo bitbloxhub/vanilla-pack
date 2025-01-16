@@ -1,0 +1,13 @@
+name = "Serilum's Extra Bundle"
+filename = "serilumsextrabundle-1.21.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UyhC4jkw/versions/vSuStSu8/serilumsextrabundle-1.21.1-2.1.jar"
+hash-format = "sha1"
+hash = "9c4bcc60190a3a93aa5b9c1f8c9dcad01386cf0f"
+
+[update]
+[update.modrinth]
+mod-id = "UyhC4jkw"
+version = "vSuStSu8"

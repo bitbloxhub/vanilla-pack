@@ -1,0 +1,13 @@
+name = "BlossomEnderChest"
+filename = "blossom-ender-chest-2.0.10+1.20.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e73bw2Xv/versions/DR1iuGn1/blossom-ender-chest-2.0.10%2B1.20.6.jar"
+hash-format = "sha1"
+hash = "1fb1e43f379056afba912d2d90e6918616d3cce3"
+
+[update]
+[update.modrinth]
+mod-id = "e73bw2Xv"
+version = "DR1iuGn1"

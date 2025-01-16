@@ -1,0 +1,13 @@
+name = "BanHammer"
+filename = "banhammer-0.11.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wpqg0ciI/versions/GMuDA4dz/banhammer-0.11.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "c4f915a556ad3c441679847f3f6c5d18575c8a48"
+
+[update]
+[update.modrinth]
+mod-id = "Wpqg0ciI"
+version = "GMuDA4dz"

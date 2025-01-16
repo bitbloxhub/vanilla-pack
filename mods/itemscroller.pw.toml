@@ -1,0 +1,14 @@
+name = "Item Scroller"
+filename = "itemscroller-fabric-1.21-0.24.55-sakura.3.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sakura-ryoko/itemscroller/releases/download/1.21-0.24.55-sakura.3/itemscroller-fabric-1.21-0.24.55-sakura.3.jar"
+hash-format = "sha1"
+hash = "e5b4368938f1225fd12ca6c45beabfb31905f684"
+
+[packwiz_gh_release]
+owner = "sakura-ryoko"
+repo = "itemscroller"
+release_name_regex = "^1.21-.*$"
+file_name_regex = "^.*\\.jar$"

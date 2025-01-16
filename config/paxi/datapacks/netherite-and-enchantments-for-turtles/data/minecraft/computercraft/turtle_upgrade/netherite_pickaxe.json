@@ -1,0 +1,9 @@
+{
+	"type": "computercraft:tool",
+	"adjective": {
+		"translate": "upgrade.minecraft.diamond_pickaxe.adjective"
+	},
+	"item": "netherite_pickaxe",
+	"allowEnchantments": true,
+	"consumeDurability": "when_enchanted"
+}

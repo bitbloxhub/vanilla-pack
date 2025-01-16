@@ -1,0 +1,13 @@
+name = "Serilum's Client Bundle"
+filename = "serilumsclientbundle-1.21.1-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wHVvdn1m/versions/qilFp98E/serilumsclientbundle-1.21.1-2.0.jar"
+hash-format = "sha1"
+hash = "6e44748aa440b23537a0155e8565e71a0a317f36"
+
+[update]
+[update.modrinth]
+mod-id = "wHVvdn1m"
+version = "qilFp98E"

@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Fabric-1.21.1-4.8.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/OOmXOMCE/ShoulderSurfing-Fabric-1.21.1-4.8.0.jar"
+hash-format = "sha1"
+hash = "44c462d01526a79ec8e8ce6f19bdf20db38e39ae"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "OOmXOMCE"

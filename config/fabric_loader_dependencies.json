@@ -1,0 +1,175 @@
+{
+	"version": 1,
+	"overrides": {
+		"armorstatues": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"puzzleslib": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"statuemenus": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"better-boat-movement": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-back": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-lib": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-ender-chest": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-homes": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-pvp": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-tpa": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"blossom-warps": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"chatpatches": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"cutthrough": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"debugify": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"easyanvils": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"easymagic": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"easyshulkerboxes": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"figura": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"glassential": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"hangglider": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"leavesbegone": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"led-common": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"jmxl": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"interference": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"litematica-server-paster": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"metalbundles": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"permanentsponges": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"pickupnotifier": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"proplacer": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"visualworkbench": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"led": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"resourcepackoverrides": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"slotcycler": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		},
+		"hotbarslotcycling": {
+			"depends": {
+				"minecraft": "1.21.1"
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+name = "Vanilla Pack"
+author = "bitbloxhub"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a46f220c72e31da9ecf7ab4d282499e5af7ade21d480ab8c049b0e3e46194e76"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]
+datapack-folder = "config/paxi/datapacks"

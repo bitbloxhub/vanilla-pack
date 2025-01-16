@@ -1,0 +1,13 @@
+name = "Move Subtitles"
+filename = "movesubtitles-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xoAMN4kp/versions/Injuhx1R/movesubtitles-1.1.jar"
+hash-format = "sha1"
+hash = "d43a0c5d797dd4556fceeb7b49e8bb3d43525d2c"
+
+[update]
+[update.modrinth]
+mod-id = "xoAMN4kp"
+version = "Injuhx1R"

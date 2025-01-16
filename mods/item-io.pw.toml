@@ -1,0 +1,13 @@
+name = "ItemIO"
+filename = "itemio-0.6.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TsnNsVHi/versions/SYAjbkLE/itemio-0.6.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "fc795aeabf1546df5a0c8feec55aa54e691c3981"
+
+[update]
+[update.modrinth]
+mod-id = "TsnNsVHi"
+version = "SYAjbkLE"

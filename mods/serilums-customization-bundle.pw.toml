@@ -1,0 +1,13 @@
+name = "Serilum's Customization Bundle"
+filename = "serilumscustomizationbundle-1.21.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SU8cf42D/versions/F2wnSwjp/serilumscustomizationbundle-1.21.1-2.1.jar"
+hash-format = "sha1"
+hash = "390dbd4be6778ae13b9e2794c9dac82a25824c5f"
+
+[update]
+[update.modrinth]
+mod-id = "SU8cf42D"
+version = "F2wnSwjp"

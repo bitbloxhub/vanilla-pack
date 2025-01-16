@@ -1,0 +1,13 @@
+name = "Pro Placer"
+filename = "ProPlacer-v21.1.0-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LhK0LkWd/versions/RkLWpk7W/ProPlacer-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha1"
+hash = "66984cd4247a7e97aeccfdee7843dafe2fae9af1"
+
+[update]
+[update.modrinth]
+mod-id = "LhK0LkWd"
+version = "RkLWpk7W"
