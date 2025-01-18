@@ -1,11 +1,11 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.21-0.32.54-sakura.5.jar"
+filename = "minihud-fabric-1.21-0.32.57-sakura.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21-0.32.54-sakura.5/minihud-fabric-1.21-0.32.54-sakura.5.jar"
+url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21-0.32.57-sakura.1/minihud-fabric-1.21-0.32.57-sakura.1.jar"
 hash-format = "sha1"
-hash = "e000522a9af39314d061b7b2bf8ee1bd44617fb4"
+hash = "a846d2d3a3b6ce679dea62baed90ae2963426401"
 
 [packwiz_gh_release]
 owner = "sakura-ryoko"

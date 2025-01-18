@@ -1,11 +1,11 @@
 name = "Servux"
-filename = "servux-fabric-1.21-0.3.11-sakura.2.jar"
+filename = "servux-fabric-1.21-0.3.13-sakura.2.jar"
 side = "server"
 
 [download]
-url = "https://github.com/sakura-ryoko/servux/releases/download/1.21-0.3.11-sakura.2/servux-fabric-1.21-0.3.11-sakura.2.jar"
+url = "https://github.com/sakura-ryoko/servux/releases/download/1.21-0.3.13-sakura.2/servux-fabric-1.21-0.3.13-sakura.2.jar"
 hash-format = "sha1"
-hash = "de542834e5b9e923dfb2be81b121491d3f67e326"
+hash = "1cf942a4d493c9408fa260bbd29292467eaee650"
 
 [packwiz_gh_release]
 owner = "sakura-ryoko"

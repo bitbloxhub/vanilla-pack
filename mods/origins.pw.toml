@@ -1,6 +1,7 @@
 name = "Origins"
 filename = "Origins-1.13.0-alpha.9+mc.1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/BUZYwxOO/Origins-1.13.0-alpha.9%2Bmc.1.21.x.jar"

@@ -1,11 +1,11 @@
 name = "Litematica"
-filename = "litematica-fabric-1.21-0.19.54-sakura.9.jar"
+filename = "litematica-fabric-1.21-0.19.56-sakura.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-0.19.54-sakura.9/litematica-fabric-1.21-0.19.54-sakura.9.jar"
+url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-0.19.56-sakura.1/litematica-fabric-1.21-0.19.56-sakura.1.jar"
 hash-format = "sha1"
-hash = "11ef74eab65f7820d547034985a2cb8bf6102dce"
+hash = "d4a21ed8b8511a340a8eec97620194093d5992da"
 
 [packwiz_gh_release]
 owner = "sakura-ryoko"

@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "88b83a4bcc9dcffc830a6c45c1f8c3cb5a164d0b0acbd08c0f5fa99a53e54e16"
+hash = "4dd4205c892081b6196cbe579b9a6f12d615eaf3955118103b73fc973dd2b004"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "18e88f70013adc373034b16ba058462e58ff86f2f5b715a79ceadade9973c6c5"
+hash = "06b1fb671ca0c0108b2d7496d57ec1d5ba36ae32569cbe0c743522987d1f0318"
 metafile = true
 
 [[files]]
@@ -891,12 +891,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "d80c87ef21c27c7a774b8cb53ee87ad6e538fcb969cdc4b413411642c3ebd1b1"
+hash = "8fcb1b38d9d4375bc978c913949098f0c7b8541a331fa645f9348ded5b78fe1c"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "13d9f1da4228a5482d2c9665752f287cdf87ecb288342d9326a624f2cee88fe3"
+hash = "2164582f6e701480b3f9f141eb28cd86ccb56709095a6b65fc4458468bc257ee"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "8ce081a2badd7dcfc37fdc3ad1e6d52df2297268c53333c8f9cd5e776fdb431f"
+hash = "0319d221630ff3b2030e0d974e8246663453ad5b221619c597dd949f65bee85d"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "9f1a6b5990a64252280a557d12d6aadc6faf80791ace34291ebec9cd6b7a81dc"
+hash = "36781d20c28d339c822f303e7fa41c0d2e8d1f304b28f200e0a6b0e06055ec00"
 metafile = true
 
 [[files]]
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f42c022d08469d7385521eeb247abfe0c6c28377910abf302e97193ea5008f51"
+hash = "cf0e3bcaa077fd1146be36a0c6a1dfeed2a4990552f55b2172a92dd0bac76839"
 metafile = true
 
 [[files]]
@@ -1081,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "a113cf5e749f3a58fd225f95f78584ae0368f02621736a6c745c73c23d61d756"
+hash = "eeda52934a47b3d4caa923e63a83eb9bcdf0fb0a8fec7d0c3a4c393bc3e1f437"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "be95d7cea8f1cdc88f47038ad9bf9820a4838606551ea160f8926c8a4e6539b0"
+hash = "89bc4e3957794d109c21db794d61ca6fcab6e8f070ac0c9d1450715f95ff0379"
 metafile = true
 
 [[files]]
@@ -1181,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ca91ffe2bf578b3e120b65c571daa40aebbdc792239147a72a11ac62a538c3be"
+hash = "fb3a7a71f99a1a16ab75e1ffaf8634dcc94189da065c6cc98628fad9c4fb1f68"
 metafile = true
 
 [[files]]
@@ -1201,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
-hash = "d0593bd809ab9b1733818e6c78e2fba3595eea1ff59577ae87fce3faae96a57e"
+hash = "9af5195ff10fa30bb77cb1c5f1e524a21fa9ab57e35b8009a8874c9a4aebe965"
 metafile = true
 
 [[files]]
@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "5af321d7b20cccb49314e33a6e70e2b495d7e734a7484c172efea24e751c436c"
+hash = "1f00e2ee307bb1becbd11fee3bef2730e34a6959a3f0649abff0d2e0c6fe5ffb"
 metafile = true
 
 [[files]]
@@ -1511,7 +1511,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "5ca71f5626822689bf7b431cb605a0967ef9470655a69c43e1f9c7dafeaf1f51"
+hash = "62b069b5eee7e1d77f0e7a3426d36f5a0dbe66119179f28a5df5cc4d9ccf77c6"
 metafile = true
 
 [[files]]
